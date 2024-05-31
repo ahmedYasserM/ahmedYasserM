@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
-<img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
+<img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/ahmedYasserM" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/ahmedYasserM" alt="CoDiNg RocKs"  width="60%"/><br>
 
 <!-- ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS) -->
 
@@ -28,7 +28,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/Github%20Actions-282a2e?style=flat&logo=githubactions&logoColor=367cfe)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Shell Scripting]( 	https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
@@ -59,9 +59,9 @@ class AboutMe {
 
 - <img alt="GIF" src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning <b>WebDev</b>. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I use <b>arch</b> BTW :) <br>
-<!-- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br> -->
-<!-- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br> -->
-<!-- - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br> -->
+  <!-- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br> -->
+  <!-- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br> -->
+  <!-- - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br> -->
 
 <!-- <div align="center" > -->
 <!-- <a  href="https://github.com/SP-XD"> -->
@@ -74,11 +74,11 @@ class AboutMe {
 
 <!-- <details> -->
   <!-- <summary>More stats</summary> -->
-  
+
 <!-- <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > -->
 
 <!-- </details> -->
-  
+
 <hr></hr>
 
 **Code Cycle**<br>
