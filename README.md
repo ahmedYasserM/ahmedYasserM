@@ -2,7 +2,8 @@
 
 <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/hellocoders.gif?raw=true" href="https://github.com/ahmedYasserM" alt="Hello Coders" width="70%"/> <br>
 
-<img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/ahmedYasserM" alt="CoDiNg RocKs"  width="60%"/><br>
+<!-- <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/ahmedYasserM" alt="CoDiNg RocKs"  width="60%"/><br> -->
+<img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/penguin-coding.webp?raw=true" href="https://github.com/ahmedYasserM" alt="CoDiNg RocKs"  width="60%"/><br>
 
 <!-- ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS) -->
 
