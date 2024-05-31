@@ -58,10 +58,10 @@ class AboutMe {
 
 ```
 
-- <img alt="GIF" src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning <b>WebDev</b>. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img alt="GIF" src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning <b>WebDev</b> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
 - <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I use <b>arch</b> BTW :) <br>
-- <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Linux, Rust** . <br> 
+- <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Linux, Rust** <br>
 - <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Yasser](https://t.me/TwwINkl)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: choose variable names is **hardest** thing in programming<br>
 
@@ -79,7 +79,6 @@ class AboutMe {
 <!-- <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > -->
 
 <!-- </details> -->
-
 
 <div align="center">
 
