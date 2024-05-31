@@ -64,7 +64,6 @@ class AboutMe {
   <!-- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br> -->
   <!-- - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br> -->
 
-<div align="center" >
 <!-- <a  href="https://github.com/SP-XD"> -->
 
 <!-- <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> -->
@@ -81,6 +80,8 @@ class AboutMe {
 <!-- </details> -->
 
 <hr></hr>
+
+<div align="center" style="text-align: center;" >
 
 **Code Cycle**<br>
 
