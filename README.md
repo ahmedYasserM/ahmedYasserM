@@ -62,7 +62,7 @@ class AboutMe {
 
 - <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I use <b>arch</b> BTW :) <br>
 - <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Linux, Rust** <br>
-- <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Yasser](https://t.me/TwwINkl)**<br>
+- <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[ᗩYᗩᔕᔕeᖇᗰ](https://t.me/aYasserM)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: choose variable names is **hardest** thing in programming<br>
 
 <!-- <a  href="https://github.com/SP-XD"> -->
