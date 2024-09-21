@@ -12,10 +12,10 @@
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=#1D2327)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=#1D2327)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -23,7 +23,6 @@
 ![NextJs](https://img.shields.io/badge/next%20js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![ShadCN ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
@@ -46,7 +45,7 @@
 
 class AboutMe {
   myTools = {
-    ProgramingLanguages: ["Rust", "Typescript", "Go", "Python", "Java"],
+    ProgramingLanguages: ["Go", "Typescript", "Rust", "Python", "Java"],
     OtherLanguages: ["HTML", "CSS", "Bash", "Json", "Toml", "Markdown"],
     Technologies = ["ReactJS", "NextJS", "NodeJS", "Tailwind CSS", "ShadCN Ui", "React Native" ]
     Database: ["PostgreSql", "MongoDB"],
@@ -61,7 +60,7 @@ class AboutMe {
 - <img alt="GIF" src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning <b>WebDev</b> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
 - <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I use <b>arch</b> BTW :) <br>
-- <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Linux, Rust** <br>
+- <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **React and Linux** <br>
 - <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[ᗩYᗩᔕᔕeᖇᗰ](https://t.me/aYasserM)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: choose variable names is **hardest** thing in programming<br>
 
