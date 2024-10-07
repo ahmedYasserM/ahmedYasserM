@@ -45,19 +45,20 @@
 
 class AboutMe {
   myTools = {
-    ProgramingLanguages: ["Go", "Typescript", "Rust", "Python", "Java"],
-    OtherLanguages: ["HTML", "CSS", "Bash", "Json", "Toml", "Markdown"],
-    Technologies = ["ReactJS", "NextJS", "NodeJS", "Tailwind CSS", "ShadCN Ui", "React Native" ]
-    Database: ["PostgreSql", "MongoDB"],
+    ProgramingLanguages: ["C++", "C", "Go", "Rust"],
+    Scripting: ["Python", "Bash"],
+    Assembly: ["X86"],
+    ComputerArchitecture: ["X86", "ARM"],
+    Virtualization = ["Qemu", "VirtualBox"],
     Editors: ["Neovim", "Zed", "Vscode"],
     Platforms: ["GNU/Linux", "Windows"],
-    OtherTools: ["Git", "Docker", "Jenkins", "Kubernetes", "Figma"]
+    OtherTools: ["Git", "Docker", "Jenkins", "Kubernetes"]
   };
 }
 
 ```
 
-- <img alt="GIF" src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning <b>WebDev</b> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img alt="GIF" src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning <b>Embedded Linux</b> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
 - <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I use <b>arch</b> BTW :) <br>
 - <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **React** and **Linux** <br>
