@@ -34,7 +34,7 @@ class AboutMe {
     ProgramingLanguages: ["C++", "C", "Go", "Rust"],
     Scripting: ["Python", "Bash"],
     Assembly: ["X86"],
-    ComputerArchitecture: ["X86", "ARM"],
+    ComputerArchitecture: ["X86"],
     Virtualization = ["Qemu", "VirtualBox"],
     Editors: ["Neovim", "Zed", "Vscode"],
     Platforms: ["GNU/Linux", "Windows"],
