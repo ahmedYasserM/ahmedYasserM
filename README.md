@@ -44,7 +44,7 @@ class AboutMe {
 
 ```
 
-- <img alt="GIF" src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning <b>Embedded Linux</b> <img align="right" src="" alt="Penguin" width="15%" /><br>
+- <img alt="GIF" src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning <b>Embedded Linux</b>
 
 - <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I use <b>arch</b> BTW :) <br>
 - <img src="https://github.com/ahmedYasserM/ahmedYasserM/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Linux** <br>
@@ -65,17 +65,3 @@ class AboutMe {
 <!-- <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > -->
 
 <!-- </details> -->
-
-<div align="center">
-
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-</div>
